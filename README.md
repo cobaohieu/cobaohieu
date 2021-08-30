@@ -1,4 +1,4 @@
-### Hi, it's me SouthernSemicolon 👋
+### Hi, it's me Southern Semicolon 👋
 
 <!--
 **cobaohieu/cobaohieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
