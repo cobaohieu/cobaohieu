@@ -105,11 +105,11 @@
 <p>
   <a href="https://github.com/cobaohieu/thesis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=thesis" alt="thesis" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/cobaohieu/Tieu-Luan"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=Tieu-Luan" alt="Tieu-Luan" /></a>
+  <a href="https://github.com/cobaohieu/latex"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=latex" alt="latex" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/cobaohieu/latex"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=latex" alt="latex" /></a>
+  <a href="https://github.com/cobaohieu/Tieu-Luan"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=Tieu-Luan" alt="Tieu-Luan" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/cobaohieu/TrainManage"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=TrainManage" alt="TrainManage" /></a>
 </p>
