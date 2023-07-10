@@ -32,19 +32,58 @@
 </table>
 
 <h3 align="left">Pinned</h3>
+
+<p>
+  <a href="https://github.com/cobaohieu/ssd-pytorch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=ssd-pytorch" alt="ssd-pytorch" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/SSD-MobileNet-V2-FPNLite"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=SSD-MobileNet-V2-FPNLite" alt="SSD-MobileNet-V2-FPNLite" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/cobaohieu/tsm"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=tsm" alt="tsm" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/yolov7"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov7" alt="yolov7" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/cobaohieu/yolov6"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov6" alt="yolov6" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/yolov5"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov5" alt="yolov5" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/cobaohieu/wave-radar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=wave-radar" alt="wave-radar" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/ocr"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=ocr" alt="ocr" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/cobaohieu/latex"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=latex" alt="latex" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/UniKeyModifiedDisplay"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=UniKeyModifiedDisplay" alt="UniKeyModifiedDisplay" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/cobaohieu/chat-bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=chat-bot" alt="chat-bot" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/nlp2sql"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=nlp2sql" alt="nlp2sql" /></a>
+</p>
+
 <p>
   <a href="https://github.com/cobaohieu/Tieu-Luan"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=Tieu-Luan" alt="Tieu-Luan" /></a>
-&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/cobaohieu/thesis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=thesis" alt="thesis" /></a>
 </p>
+
 <p>
   <a href="https://github.com/cobaohieu/ASUS-K55VD-HACKINTOSH"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=ASUS-K55VD-HACKINTOSH" /></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/cobaohieu/MSI-H170A-Hackintosh"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=MSI-H170A-Hackintosh" /></a>
 </p>
+
 <p>
   <a href="https://github.com/cobaohieu/QRCode2018"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=QRCode2018" alt="QRCode2018" /></a>
-&nbsp;
-  <a href="https://github.com/cobaohieu"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=QRCode2018" alt="QRCode2018" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cobaohieu/ChangeNumberPhoneIn2018"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=ChangeNumberPhoneIn2018" alt="ChangeNumberPhoneIn2018" /></a>
 </p>
 
