@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, it's me Southern Semicolon</h1>
+<h1 align="center">Hi 👋, it's me Southern Semicolon 🧓</h1>
 
 <h3 align="left">Connect with me:</h3>
 
