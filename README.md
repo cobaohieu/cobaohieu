@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://twitter.com/cobaohieu#gh-light-mode-only" target="blank"><img align="center" src="http://qlvbdh.thainguyen.gov.vn/mobile/fontawesome/svgs/brands/twitter.svg#gh-light-mode-only" alt="twitter" height="30" width="40" /></a>
-  <a href="https://twitter.com/cobaohieu#gh-dark-mode-only" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg#gh-dark-mode-only" alt="twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/cobaohieu#gh-dark-mode-only" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg#gh-dark-mode-only" alt="twitter" height="30" width="40" /></a>
   <a href="https://dev.to/cobaohieu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/cobaohieu#gh-light-mode-only" target="blank"><img align="center" src="http://qlvbdh.thainguyen.gov.vn/mobile/fontawesome/svgs/brands/linkedin-in.svg#gh-light-mode-only" alt="linkedin" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/cobaohieu#gh-dark-mode-only" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://medium.com/@cobaohieu#gh-light-mode-only" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg#gh-light-mode-only" alt="medium" height="30" width="40" /></a>
+  <a href="https://medium.com/@cobaohieu#gh-light-mode-only" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-4.svg#gh-light-mode-only" alt="medium" height="30" width="40" /></a>
   <a href="https://medium.com/@cobaohieu#gh-dark-mode-only" target="blank"><img align="center" src="https://img.icons8.com/color-glass/240/medium-logo.png#gh-dark-mode-only" alt="medium" height="30" width="40" /></a>
   <a href="https://kaggle.com/cobaohieu#gh-light-mode-only" target="blank"><img align="center" src="http://qlvbdh.thainguyen.gov.vn/mobile/fontawesome/svgs/brands/kaggle.svg#gh-light-mode-only" alt="kaggle" height="30" width="40" /></a>
   <a href="https://kaggle.com/cobaohieu#gh-dark-mode-only" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg#gh-dark-mode-only" alt="kaggle" height="30" width="40" /></a>
