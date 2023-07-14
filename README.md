@@ -93,11 +93,11 @@
   <a href="https://github.com/cobaohieu/nlp2sql#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=nlp2sql&theme=dark#gh-dark-mode-only" alt="nlp2sql" /></a>
 </p>
 
-<p>
+<!-- <p>
   <a href="https://github.com/cobaohieu/ssd-pytorch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=ssd-pytorch&theme=transparent" alt="ssd-pytorch" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/cobaohieu/SSD-MobileNet-V2-FPNLite"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=SSD-MobileNet-V2-FPNLite&theme=transparent" alt="SSD-MobileNet-V2-FPNLite" /></a>
-</p>
+</p> -->
 
 <p>
   <a href="https://github.com/cobaohieu/yolov7theme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov7&theme=transparent" alt="yolov7" /></a>
@@ -105,11 +105,11 @@
   <a href="https://github.com/cobaohieu/yolov6theme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov6&theme=transparent" alt="yolov6" /></a>
 </p>
 
-<p>
+<!-- <p>
   <a href="https://github.com/cobaohieu/tsmtheme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=tsm&theme=transparent" alt="tsm" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/cobaohieu/yolov5theme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=yolov5&theme=transparent" alt="yolov5" /></a>
-</p>
+</p> -->
 
 <p>
   <a href="https://github.com/cobaohieu/thesis#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cobaohieu&repo=thesis&theme=default#gh-light-mode-only" alt="thesis" /></a>
