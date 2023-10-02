@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, it's me Southern Semicolon 👨‍🦲</h1>
+<h1 align="center">Hi 👋, It's Me<br> &nbsp; &nbsp; &nbsp; I'm <span style="color:blue">Southern Semicolon</span>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 
